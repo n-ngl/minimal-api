@@ -23,4 +23,5 @@ public class AdministradorTest
         Assert.AreEqual("teste", adm.Senha);
         Assert.AreEqual("Adm", adm.Perfil);
     }
-}
++}
++//finalizado
